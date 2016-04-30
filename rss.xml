@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Lyn-Art Textiles]]></title>
         <description><![CDATA[Lyn-Art Textiles]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/lyn-art-textiles/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Apr 2016 15:09:49 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 30 Apr 2016 15:12:05 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/lyn-art-textiles/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[ ]]></title>
             <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cc478aa3cbc77d32a4808ae2b24adc0da92bbb1b.jpg" alt="" title="">]]></description>
-            <link>undefineddf13ea71-dedf-4b12-a048-833265427195/index.html</link>
+            <link>https://thegrid.ai/lyn-art-textiles/df13ea71-dedf-4b12-a048-833265427195/index.html</link>
             <guid isPermaLink="false">df13ea71-dedf-4b12-a048-833265427195</guid>
-            <pubDate>Sat, 30 Apr 2016 15:09:49 GMT</pubDate>
+            <pubDate>Sat, 30 Apr 2016 15:11:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
