@@ -1,0 +1,28 @@
+name: Lyn-Art Textiles
+favicon: null
+layout_spectrum: 0.47214901936240494
+typography_spectrum: 0.9095383435487747
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.9673223930876702
+  lightness: 0.9518235689029098
+  saturation: 0.44989756192080677
+  rhythmicContrast: 0.7810239039827138
+purpose: []
