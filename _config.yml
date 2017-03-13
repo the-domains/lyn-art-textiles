@@ -1,4 +1,4 @@
-name: Lyn-Art Textiles
+name: 'Lyn-Art '
 favicon: null
 layout_spectrum: 1
 typography_spectrum: 0.9095383435487747
@@ -25,4 +25,18 @@ color:
   lightness: 0.9518235689029098
   saturation: 0.44989756192080677
   rhythmicContrast: 0.7810239039827138
-purpose: []
+purpose:
+  - type: contact
+    url: 'tel:6128044869'
+    label: 'Phone: 6128044869'
+  - type: contact
+    url: 'mailto:lynwiegand@gmail.com'
+    label: 'Email me:'
+content: []
+title: Lyn Wiegand Illustration
+description: 'Illustration, Graphics, Textile Design & More'
+github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/1ac775db-dfb1-4986-a2c7-7ca52db2c8ac.jpg
+content_rating:
+  adult: false
